@@ -1,0 +1,38 @@
+/*Основная стилизация страницы*/
+
+body {
+background-color: #FFFFFF;
+color: #000000;
+}
+
+/* Страницы */
+
+.page-header {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+.navigation-link{
+    font-family: "PT Sans", normal;
+    font-weight: 700;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: inherit;
+}
+
+.main-index-start{
+    background-color: #FFFFFF;
+    color: #000000;
+    background-image: url(/images/index-background.jpg);
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+}
+
+.reasons-title-big1{
+    text-align: left;
+}
+.reasons-description-big1{
+    text-align: center;
+}
